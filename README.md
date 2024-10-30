@@ -1,4 +1,5 @@
 <h2 align="center"> Hello World! </h2>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=addaclic&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 My name is Andrew and I am backend developer C++. Improve my skills in programming school 21. I have commercial development experience in hardware company. 
 

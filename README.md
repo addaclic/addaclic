@@ -1,5 +1,4 @@
 <h2 align="center"> Hello World! </h2>
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=addaclic&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 My name is Andrew and I am backend developer C++. Improve my skills in programming school 21. I have commercial development experience in hardware company. 
 
@@ -13,6 +12,8 @@ My name is Andrew and I am backend developer C++. Improve my skills in programmi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=addaclic&count_private=true&show_icons=true&include_all_commits=true&theme=nightowl" height="163" />
 </a>
 </p>
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=addaclic&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 <!--
 **addaclic/addaclic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

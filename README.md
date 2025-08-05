@@ -13,7 +13,7 @@ My name is Andrew and I am backend developer C++. Improve my skills in programmi
 </a>
 </p>
 
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=addaclic&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
+<p align="center" > <img src="https://komarev.com/ghpvc/?username=addaclic&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" /> </p>
 
 <!--
 **addaclic/addaclic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
